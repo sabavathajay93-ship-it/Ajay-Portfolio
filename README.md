@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio! This website showcases my technical 
 
 I am **Sabhavath Ajay**, a Computer Applications graduate passionate about software development, web development, and data analysis. I enjoy building practical applications, solving programming problems, and continuously learning new technologies.
 
-🌐 **Live Portfolio:** [View My Portfolio](https://sabavathajay93-ship-it.github.io/ajay-portfolio/)
+🌐 **Live Portfolio:** [View My Portfolio](https://sabavathajay93-ship-it.github.io/Ajay-Portfolio/)
 
 ---
 
